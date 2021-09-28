@@ -11,9 +11,6 @@
         <h1 id="cha" style="font-size: small;">
             we are removing this by click.
         </h1>
-        <h1 id="h2" style="display: none;">
-            you have click to display this heading. using functions
-        </h1>
     </div>
     <button type="button" onclick="myfunction()">
         click to add.
